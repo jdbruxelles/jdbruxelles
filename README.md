@@ -11,21 +11,11 @@ You can reach me by email **jose[at]wetrafa.xyz** or send me a text on social ne
 
 ### Connect with me:
 
-<a href="https://codepen.io/jdbio" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jdbio" height="30" width="40"/>
-</a>
-<a href="https://twitter.com/jdbruxelles" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jdbruxelles" height="30" width="40"/>
-</a>
-<a href="https://stackoverflow.com/users/8335367" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8335367" height="30" width="40"/>
-</a>
-<a href="https://fb.com/jdbruxelles" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jdbruxelles" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/jdbruxelles" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jdbruxelles" height="30" width="40"/>
-</a>
+- [Codepen](https://codepen.io/jdbio)
+- [Twitter](https://twitter.com/jdbruxelles)
+- [Stackoverflow](https://stackoverflow.com/users/8335367)
+- [Facebook](https://fb.com/jdbruxelles)
+- [Instagram](https://instagram.com/jdbruxelles)
 
 ### Languages and Tools:
 
@@ -56,9 +46,9 @@ You can reach me by email **jose[at]wetrafa.xyz** or send me a text on social ne
 <a href="https://sass-lang.com" target="_blank">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </a>
-<p></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdbruxelles&layout=compact)](https://github.com/jdbruxelles)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdbruxelles&layout=compact)
 
 ### My wakatime stats for the last week
 
