@@ -18,9 +18,8 @@ You can reach me by email **jose[at]wetrafa.xyz** or send me a text on social ne
 
 ### Languages and Tools:
 
-| | | | |
-|:-----------:|:-----------:|:-----------:|:-----------:|
 | HTML5 | CSS | Sass | JavaScript |
+|:-----------:|:-----------:|:-----------:|:-----------:|
 | jQuery | JSON | Jekyll | Liquid |
 | PHP | MySQL | Git | Gulp |
 | VS Code | Sublime Text | | |
