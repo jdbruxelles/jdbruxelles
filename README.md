@@ -29,7 +29,7 @@ You can reach me by email **jose[at]wetrafa.xyz** or send me a text on social ne
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdbruxelles&layout=compact&hide_title=true) -->
 
-### My coding stats for the 7 last days
+<!-- ### Top languages over the 7 last days
 
-![Wakatime-stats-light](https://wakatime.com/share/@jdbruxelles/d3abb0c4-1ce5-49cf-9501-1e2bbb52ac32.svg#gh-light-mode-only)
-![Wakatime-stats-dark](https://wakatime.com/share/@jdbruxelles/c4fca6fa-422e-49ce-a194-4e8bffd0d763.svg#gh-dark-mode-only) 
+![Wakatime-stats-light](https://wakatime.com/share/@jdbruxelles/169e4255-7a58-4155-95a0-cce5c2294782.png#gh-light-mode-only)
+![Wakatime-stats-dark](https://wakatime.com/share/@jdbruxelles/942e0d2f-a6a3-4c2c-bbfb-d30717619b6c.png#gh-dark-mode-only) -->
