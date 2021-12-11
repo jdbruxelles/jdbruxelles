@@ -18,16 +18,18 @@ You can reach me by email **jose[at]wetrafa.xyz** or send me a text on social ne
 
 ### Languages and Tools:
 
-| HTML5   | CSS          | Sass   | JavaScript |
-|:-------:|:------------:|:------:|:----------:|
-| jQuery  | JSON         | Jekyll | Liquid     |
-| PHP     | MySQL        | Git    | Gulp       |
-| VS Code | Sublime Text |        |            |
+|         |              |         |            |
+|:-------:|:------------:|:-------:|:----------:|
+| HTML5   | CSS          | Sass    | JavaScript |
+| jQuery  | JSON         | Jekyll  | Liquid     |
+| PHP     | SQL          | Git     | Gulp       |
+| VS Code | Sublime Text | JdB.CSS | Markdown   |
 
 <!-- ### My most used languages on GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdbruxelles&layout=compact&hide_title=true) -->
 
-<!-- ### My wakatime stats for the last week
+ ### My wakatime stats for the last week
 
-![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdbruxelles&hide_title=true) -->
+![My wakatime stats](https://wakatime.com/share/@jdbruxelles/d3abb0c4-1ce5-49cf-9501-1e2bbb52ac32.svg#gh-light-mode-only) 
+![My wakatime stats](https://wakatime.com/share/@jdbruxelles/c4fca6fa-422e-49ce-a194-4e8bffd0d763.svg#gh-dark-mode-only) 
