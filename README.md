@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José dBruxelles</h1>
 <h3 align="center">A passionate frontend developer and designer from Belgium</h3>
 
-I'm currently working on [JdBEdit](https://code.wetrafa.xyz), a simple web IDE based on Gist GitHub. 🌱 I'm learning **Java**, **TypeScript** and some other new stuff. Some of my [projects](https://jd.bruxelles.dev/projets) and some [do-it-your-self](https://jd.bruxelles.dev/w/) are available on my personal website.
+I'm currently working on [JdBEdit](https://code.wetrafa.xyz), a simple web IDE based on Gist GitHub. I built [si18n.js](https://si18n.js.bruxelles.dev/), my first JS lib that's a tool for making page localization with ease. 🌱 I'm learning **Java**, **TypeScript** and some other new stuff. Some of my [projects](https://jd.bruxelles.dev/projets) and some [do-it-your-self](https://jd.bruxelles.dev/w/) are available on my personal website.
 
 You can reach me by email **jose[at]wetrafa.xyz** or send me a text on social networks. To know more about me, you can find my ABOUTME at [jd.bruxelles.dev/a](https://jd.bruxelles.dev/a)
 
