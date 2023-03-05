@@ -18,9 +18,10 @@ You can reach me by email **jose[at]wetrafa.xyz** or send me a text on social ne
 
 |         |              |         |            |
 |:-------:|:------------:|:-------:|:----------:|
-| HTML5   | CSS          | Sass    | JavaScript |
-| jQuery  | JSON         | Jekyll  | Liquid     |
-| PHP     | SQL          | Git     | Gulp       |
+| HTML5   | CSS          | SASS    | SCSS       |
+| jQuery  | JavaScript   | JSON    | Jekyll     | 
+| Liquid  | PHP          | SQL     | Java       | 
+| C#      | Astro        | Git     | Gulp       |
 | VS Code | Sublime Text | JdB.CSS | Markdown   |
 
 <!-- ### My most used languages on GitHub
