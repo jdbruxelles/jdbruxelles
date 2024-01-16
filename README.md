@@ -9,7 +9,7 @@ You can reach me by email **jose[at]wetrafa.xyz** or send me a text on social ne
 
 ### Connect with me
 
-- [Twitter](https://twitter.com/jdbruxelles)
+- [X (formerly Twitter)](https://twitter.com/jdbruxelles)
 - [Instagram](https://instagram.com/jdbruxelles)
 - [Stackoverflow](https://stackoverflow.com/users/8335367)
 - [Codepen](https://codepen.io/jdbio)
