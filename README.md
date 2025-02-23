@@ -9,20 +9,21 @@ You can reach me by email **jose[at]wetrafa.xyz** or send me a text on social ne
 
 ### Connect with me
 
-- [X (formerly Twitter)](https://twitter.com/jdbruxelles)
+- [X (formerly Twitter)](https://x.com/jdbruxelles)
 - [Instagram](https://instagram.com/jdbruxelles)
 - [Stackoverflow](https://stackoverflow.com/users/8335367)
 - [Codepen](https://codepen.io/jdbio)
 
 ### Languages and Tools
 
-|         |              |         |            |
-|:-------:|:------------:|:-------:|:----------:|
-| HTML5   | CSS          | SASS    | SCSS       |
-| jQuery  | JavaScript   | JSON    | Jekyll     | 
-| Liquid  | PHP          | SQL     | Java       | 
-| C#      | Astro        | Git     | Gulp       |
-| VS Code | Sublime Text | JdB.CSS | Markdown   |
+|           |              |         |            |
+|:---------:|:------------:|:-------:|:----------:|
+| HTML5     | CSS          | SASS    | SCSS       |
+| jQuery    | JavaScript   | JSON    | Java       | 
+| C#        | PHP          | SQL     | Liquid     | 
+| Jekyll    | Astro        | React   | shadcn/ui  |
+| JdB.CSS   | tailwindcss  | Git     | Gulp       |
+| Markdown  | VS Code      | Sublime Text |       |
 
 <!-- ### My most used languages on GitHub
 
